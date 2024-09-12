@@ -5,21 +5,8 @@ export default function Home() {
   return (
     <div className={styles.page}>
       <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol>
-          <li>
-            Get started by editing{" "}
-            <code>src/app/page.js v 1-2-1, (branch 02 update now)</code>.
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+        <h1>Pm2 restart work (1)</h1>
+        <h3>Pm2 start with user change from root to himon</h3>
 
         <div className={styles.ctas}>
           <a
