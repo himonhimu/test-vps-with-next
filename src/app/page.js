@@ -7,6 +7,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1>Pm2 restart work (1)</h1>
         <h3>Pm2 start with user change from root to himon</h3>
+        <h3>Test working</h3>
 
         <div className={styles.ctas}>
           <a
