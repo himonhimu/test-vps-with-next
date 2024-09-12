@@ -15,7 +15,8 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing <code>src/app/page.js v 1-2-1 test</code>.
+            Get started by editing{" "}
+            <code>src/app/page.js v 1-2-1, (branch 02 update now)</code>.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
