@@ -26,4 +26,4 @@ jobs:
       - run: npm run build --if-present
       - name: Go to Project Path
         run: cd /home/himon/test02/dev_server/test-vps-with-next/test-vps-with-next
-      - run: pm2 restart all
+      - run: pm2 restart 0
