@@ -9,7 +9,7 @@ export default function Home() {
         <h1>This page is deployed with Jenkins (2) wroking</h1>
 
    <h1>This page is deployed this is working fine</h1>
-   <h1>This page is deployed with Jenkins on remote server</h1>
+   <h1>This page is deployed with Jenkins on remote server (2)</h1>
         {/* <h1>This page is deployed with Jenkins</h1> */}
         <h3>Pm2 start with user change from root to himon</h3>
         <h3>Test working</h3>
